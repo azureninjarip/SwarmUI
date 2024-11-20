@@ -1,4 +1,4 @@
-from . import SwarmImages, SwarmInternalUtil, SwarmKSampler, SwarmMasks
+from . import SwarmImages, SwarmInternalUtil, SwarmKSampler, SwarmMasks, SwarmTextHandling
 
 WEB_DIRECTORY = "./web"
 
